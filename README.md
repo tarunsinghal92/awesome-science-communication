@@ -155,6 +155,7 @@ However, these seem to be the most used ones:
 
 ## Tools for creating videos and animations
 
+- ![Commercial Software][Money Icon] [Amplify by ResearchBunny](https://www.researchamplify.com/) - Turns a published paper's PDF into a video abstract, a vertical short, an audio brief in 22 languages and a one-page infographic, with an embeddable widget for lab and faculty pages
 - ![Open-Source Software][OSS Icon] [Blender](https://www.blender.org) [![GitHub stars](https://img.shields.io/github/stars/blender/blender.svg?style=social&label=Star&maxAge=2592000)](https://github.com/blender/blender) - Free and open-source 3D creation suite for animations, visual effects, and scientific visualization
 - ![Open-Source Software][OSS Icon] [Manim](https://www.manim.community) [![GitHub stars](https://img.shields.io/github/stars/ManimCommunity/manim.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ManimCommunity/manim) - Animation engine for explanatory math and science videos (used by 3Blue1Brown)
 - ![Open-Source Software][OSS Icon] [OBS Studio](https://obsproject.com) [![GitHub stars](https://img.shields.io/github/stars/obsproject/obs-studio.svg?style=social&label=Star&maxAge=2592000)](https://github.com/obsproject/obs-studio) - Free and open-source software for video recording and live streaming
